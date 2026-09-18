@@ -192,7 +192,7 @@ To add **Discord** or **Telegram** alerts, extend `src/alerts/alert_manager.py`.
 
 ```
 ┌─────────────────────────────────────────┐
-│  📱 TELEGRAM: @spidertrading100         │
+│  📱 TELEGRAM: @nexastruct         │
 │                                         │
 │  Questions • Feedback • Custom builds   │
 └─────────────────────────────────────────┘
